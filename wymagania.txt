@@ -1,0 +1,3 @@
+wymagania
+
+To jest linijka do wycofania

@@ -1,3 +1,11 @@
-wymagania
+Logowanie do aplikacji
+-wymaganie 1
+-wymaganie 2
 
-To jest linijka do wycofania
+Logowanie do Google
+-wymaganie 1
+-wymaganie 2
+
+Logowanie do Microsoft
+-wymaganie 1
+-wymaganie 2
